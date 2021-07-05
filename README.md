@@ -12,7 +12,8 @@
 >>> triggers wanted police npcs
 >>> adds gang npc as enemy
 >>> make gang hate player
->>> # general pedmoneydrop 
+>>> # general pedmoneydrop
+>>> ped drops money cash .. 
 >>> converted into esx integrated into holdup
 >> - esx_lscustoms
 >>> free repair menu
