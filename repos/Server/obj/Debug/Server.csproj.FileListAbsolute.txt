@@ -1,4 +1,0 @@
-C:\Users\35192\Desktop\QSFK\txData\PlumeESX_D6ACBD.base\resources\zaqwert\Server.net.dll
-C:\Users\35192\source\repos\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
-C:\Users\35192\source\repos\Server\obj\Debug\Server.net.dll
-C:\Users\35192\source\repos\Server\obj\Debug\Server.csproj.AssemblyReference.cache
