@@ -16,8 +16,4 @@
 >>> converted into esx integrated into holdup
 >> - esx_lscustoms
 >>> free repair menu
->> - esx_weaponshop
->>> only 2 stores normal n black, shown on map
->> - esx_garage, _atm, _stores
->>> only 1
 >> # this is basis that i can recall to
