@@ -14,18 +14,10 @@
 >>> make gang hate player
 >>> # general pedmoneydrop 
 >>> converted into esx integrated into holdup
->> - esx_jobs
->>> broken?
->> - esx_joblisting
->>> only unemployment
->> - esx_taxi
->>> works but wl
 >> - esx_lscustoms
 >>> free repair menu
 >> - esx_weaponshop
 >>> only 2 stores normal n black, shown on map
 >> - esx_garage, _atm, _stores
 >>> only 1
->> - esx_police, _mechanic, _billing, _drugs, _licence,
->>> not started
->> # stuff i dont remember rn
+>> # this is basis that i can recall to
